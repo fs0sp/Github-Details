@@ -4,6 +4,6 @@ A Flutter based application to get the user details.
 
 ## Have a Look :fire:
 
-![alt text](/img1.png) ![alt text](/img2.png) 
+![alt text](/img1.png=300x600) ![alt text](/img2.png=300x600) 
 
 
