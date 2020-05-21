@@ -89,7 +89,7 @@ class _DetailsPageState extends State<DetailsPage> {
                       children: <Widget>[
                         Icon(Icons.folder_open),
                         SizedBox(height: 10,),
-                        Text(userData['public_repos'].toString()),
+                        Text(userData['public_gists'].toString()),
                         SizedBox(height: 10,),
                         Text('Gists', style: TextStyle(fontSize: 10, fontFamily: 'Circular', color: Colors.black54), ),
                       ],
